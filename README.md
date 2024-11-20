@@ -1,6 +1,6 @@
 # Network Scanner Web Application
 
-![Network Scanner]([https://via.placeholder.com/800x400?text=Network+Scanner](https://raw.githubusercontent.com/AdithGaniga/OnlineNmap/refs/heads/main/public/HomePage.png))
+![Network Scanner](https://raw.githubusercontent.com/AdithGaniga/OnlineNmap/refs/heads/main/public/HomePage.png)
 
 A modern, responsive web application for scanning network vulnerabilities and performing security assessments. This tool helps security professionals and system administrators identify potential security risks before they can be exploited by attackers.
 

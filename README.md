@@ -150,7 +150,7 @@ This tool is meant for security testing and educational purposes only. Users are
 ## 🙏 Acknowledgments
 
 - Icon library provided by [Lucide React](https://lucide.dev/)
-- UI components inspired by [Tailwind UI](https://tailwindui.com/)
+- UI components inspired by [Tailwind UI](https://tailwindui.com/
 - Network scanning concepts from various security resources
 
 ## 📞 Support

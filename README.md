@@ -137,7 +137,7 @@ To add new scan types:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ## ⚠️ Disclaimer
 
@@ -145,7 +145,7 @@ This tool is meant for security testing and educational purposes only. Users are
 
 ## 👥 Authors
 
-- Your Name - *Initial work* - [YourGithub](https://github.com/yourusername)
+- Adith - *Initial work* - (https://github.com/AdithGaniga)
 
 ## 🙏 Acknowledgments
 

@@ -151,8 +151,8 @@ const NetworkScanner = () => {
       <div className="bg-white bg-opacity-90 rounded-2xl shadow-2xl p-8 backdrop-blur-sm max-w-4xl mx-auto border border-blue-200">
         <div className="mb-6">
           <div className="flex items-center justify-center mb-4 space-x-3">
-            <Scan className="w-10 h-10 text-blue-600 animate-pulse" />
-            <h2 className="text-4xl font-bold text-blue-800">Network Scanner</h2>
+            <Scan className="w-10 h-10 text-blue-900 animate-pulse" />
+            <h2 className="text-4xl font-bold text-blue-950">Network Scanner</h2>
           </div>
 
           <div className="text-xl font-light italic text-gray-500 text-center mb-8">
@@ -169,7 +169,7 @@ const NetworkScanner = () => {
             placeholder="Enter target IP or hostname"
             value={target}
             onChange={(e) => setTarget(e.target.value)}
-            className="w-full p-3 mb-6 border border-blue-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 bg-blue-50 placeholder-blue-400"
+            className="w-full p-3 mb-6 border border-blue-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-950 bg-blue-50 placeholder-blue-900"
           />
           
           <div className="grid grid-cols-2 md:grid-cols-5 gap-3">
@@ -182,7 +182,7 @@ const NetworkScanner = () => {
                   p-2 rounded-lg font-medium text-sm
                   ${scanning
                     ? 'bg-gray-300 cursor-not-allowed'
-                    : 'bg-gradient-to-r from-blue-500 to-blue-600 hover:from-blue-600 hover:to-blue-700 text-white shadow-md hover:shadow-lg transform hover:-translate-y-0.5 transition-all duration-200'}
+                    : 'bg-gradient-to-r from-black to-blue-950 hover:from-blue-800 hover:to-blue-950 text-white shadow-md hover:shadow-lg transform hover:-translate-y-0.5 transition-all duration-200'}
                   w-full md:w-auto
                 `}
               >

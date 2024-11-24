@@ -78,7 +78,7 @@ def scan():
             'version': '-sV',
             'full': '-p-',
             'os': '-O',
-            'existing': '-sV --script=vulscan/vulscan.nse'
+            'exploits': '-sV --script=vulscan/vulscan.nse'
         }.get(scan_type)
         
         if not scan_args:
